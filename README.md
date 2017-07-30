@@ -2,7 +2,7 @@
 
 Here's a brief explanation of what I'm trying to do here: 
 
-https://ethereum.stackexchange.com/questions/23302/increment-contract-value-with-console-call-on-truffle-testrpc-variable-is-not/23336#23336
+https://ethereum.stackexchange.com/questions/23302/increment-contract-value-with-console-call-on-truffle-testrpc-variable-is-not/
 
 Contract looks like this: 
 
